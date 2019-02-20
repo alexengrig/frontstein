@@ -7,7 +7,7 @@
   "author": "alexengrig",
   "main": "index.js",
   "scripts": {
-    "webpack": "webpack",
+    "webpack": "webpack -w",
     "start": "http-server"
   },
   "devDependencies": {
