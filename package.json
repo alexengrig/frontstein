@@ -2,8 +2,14 @@
   "name": "frontstein",
   "version": "1.0.0",
   "description": "Frankenstein's frontend project",
-  "main": "index.js",
   "repository": "https://github.com/alexengrig/frontstein",
+  "license": "MIT",
   "author": "alexengrig",
-  "license": "MIT"
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
 }
