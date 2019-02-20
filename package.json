@@ -7,9 +7,12 @@
   "author": "alexengrig",
   "main": "index.js",
   "scripts": {
+    "webpack": "webpack",
     "start": "http-server"
   },
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
   }
 }
