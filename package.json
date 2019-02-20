@@ -1,0 +1,9 @@
+{
+  "name": "frontstein",
+  "version": "1.0.0",
+  "description": "Frankenstein's frontend project",
+  "main": "index.js",
+  "repository": "https://github.com/alexengrig/frontstein",
+  "author": "alexengrig",
+  "license": "MIT"
+}
